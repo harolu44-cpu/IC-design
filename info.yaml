@@ -27,11 +27,11 @@ pinout:
 
   # Outputs
   uo[0]: "s"
-  uo[1]: ""
+  uo[1]: "Cout"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
-  uo[5]: "Cout"
+  uo[5]: ""
   uo[6]: ""
   uo[7]: ""
 
