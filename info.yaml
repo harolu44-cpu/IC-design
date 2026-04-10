@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     460941572301963265       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Full Adder"      # Project title
-  author:       "Luis Haro"      # Your name
+  title:        ""      # Project title
+  author:       ""      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
@@ -27,11 +27,11 @@ pinout:
 
   # Outputs
   uo[0]: "s"
-  uo[1]: "Cout"
+  uo[1]: ""
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
-  uo[5]: ""
+  uo[5]: "Cout"
   uo[6]: ""
   uo[7]: ""
 
